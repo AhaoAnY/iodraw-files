@@ -58,6 +58,9 @@
         <mxCell id="1hHplbxJLuauwOQjEn36-17" value="失联制动&lt;div&gt;看门狗喂狗&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-18" value="监控电池状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
