@@ -88,13 +88,19 @@
         <mxCell id="1hHplbxJLuauwOQjEn36-26" value="GPIO外部中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-28" target="1hHplbxJLuauwOQjEn36-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1hHplbxJLuauwOQjEn36-28" value="是否为NRF" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-30" target="1hHplbxJLuauwOQjEn36-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1hHplbxJLuauwOQjEn36-30" value="处理来自&lt;div&gt;遥控器的数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hHplbxJLuauwOQjEn36-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1hHplbxJLuauwOQjEn36-31" value="退出中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
