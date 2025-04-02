@@ -117,11 +117,28 @@
         <mxCell id="1hHplbxJLuauwOQjEn36-35" value="ADC转换回调中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-36" target="1hHplbxJLuauwOQjEn36-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1hHplbxJLuauwOQjEn36-36" value="读电池电压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-37" target="1hHplbxJLuauwOQjEn36-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-37" target="1hHplbxJLuauwOQjEn36-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="440" />
+              <mxPoint x="1040" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1hHplbxJLuauwOQjEn36-37" value="是否过低" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1hHplbxJLuauwOQjEn36-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1hHplbxJLuauwOQjEn36-40" target="1hHplbxJLuauwOQjEn36-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1hHplbxJLuauwOQjEn36-40" value="制动标志位&lt;div&gt;置位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="530" width="120" height="60" as="geometry" />
