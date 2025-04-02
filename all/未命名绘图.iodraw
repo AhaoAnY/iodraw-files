@@ -120,11 +120,11 @@
         <mxCell id="1hHplbxJLuauwOQjEn36-37" value="是否过低" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hHplbxJLuauwOQjEn36-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="1hHplbxJLuauwOQjEn36-40" value="制动标志位&lt;div&gt;置位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hHplbxJLuauwOQjEn36-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="1hHplbxJLuauwOQjEn36-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
