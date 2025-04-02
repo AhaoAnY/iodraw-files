@@ -1,54 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="VplodN1kdiyz-0k0bn5X">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="300" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dj0WN4cvqVyG-9Tac_03-1" target="dj0WN4cvqVyG-9Tac_03-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-1" value="等待上位机指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dj0WN4cvqVyG-9Tac_03-2" target="dj0WN4cvqVyG-9Tac_03-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-2" value="发送数据包及相关指令至无线通信模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dj0WN4cvqVyG-9Tac_03-4" target="dj0WN4cvqVyG-9Tac_03-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="400" />
-              <mxPoint x="420" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-4" value="开启定时器11" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dj0WN4cvqVyG-9Tac_03-8" target="dj0WN4cvqVyG-9Tac_03-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-8" value="触发无线通信&lt;div&gt;模块发送中断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dj0WN4cvqVyG-9Tac_03-9" target="dj0WN4cvqVyG-9Tac_03-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-9" value="记录定时器值&lt;div&gt;关闭定时器11&lt;/div&gt;&lt;div&gt;打印数据至上位机&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dj0WN4cvqVyG-9Tac_03-12" target="dj0WN4cvqVyG-9Tac_03-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-12" value="清空无线通信模块&lt;div&gt;相关标志位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0WN4cvqVyG-9Tac_03-14" value="退出中断" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
