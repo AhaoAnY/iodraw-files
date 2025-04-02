@@ -49,7 +49,7 @@
         <mxCell id="1hHplbxJLuauwOQjEn36-14" value="读各项传感器数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1hHplbxJLuauwOQjEn36-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1hHplbxJLuauwOQjEn36-15" value="处理数据&lt;div&gt;计算PID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
