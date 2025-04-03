@@ -22,7 +22,7 @@
         <mxCell id="LPQ3DQJKvlo4rPYDul3U-3" value="READY&lt;div&gt;复位参数等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LPQ3DQJKvlo4rPYDul3U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPQ3DQJKvlo4rPYDul3U-4" target="LPQ3DQJKvlo4rPYDul3U-6">
+        <mxCell id="LPQ3DQJKvlo4rPYDul3U-10" value="收外部影响" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPQ3DQJKvlo4rPYDul3U-4" target="LPQ3DQJKvlo4rPYDul3U-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LPQ3DQJKvlo4rPYDul3U-4" value="PROCESS&lt;div&gt;计算PID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
