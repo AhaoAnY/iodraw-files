@@ -13,8 +13,14 @@
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-13" value="为2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiAwI5u74FiJeYMY6PMQ-2" target="jiAwI5u74FiJeYMY6PMQ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-16" value="为1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiAwI5u74FiJeYMY6PMQ-2" target="jiAwI5u74FiJeYMY6PMQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-2" value="判断status值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiAwI5u74FiJeYMY6PMQ-3" target="jiAwI5u74FiJeYMY6PMQ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-3" value="发送飞控效果数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
