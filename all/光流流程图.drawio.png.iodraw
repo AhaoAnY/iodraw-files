@@ -13,6 +13,15 @@
         <mxCell id="jerJbpV7M_kOJWFqXsfC-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-3" target="jerJbpV7M_kOJWFqXsfC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-3" target="jerJbpV7M_kOJWFqXsfC-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="620" />
+              <mxPoint x="120" y="620" />
+              <mxPoint x="120" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jerJbpV7M_kOJWFqXsfC-3" value="是否接收到数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,7 +53,11 @@
           <mxGeometry x="200" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jerJbpV7M_kOJWFqXsfC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-8" target="jerJbpV7M_kOJWFqXsfC-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jerJbpV7M_kOJWFqXsfC-8" value="PID参数等复位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
