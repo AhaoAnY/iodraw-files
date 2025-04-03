@@ -59,6 +59,9 @@
         <mxCell id="LPQ3DQJKvlo4rPYDul3U-16" value="WAITING2&lt;div&gt;油门足够大&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LPQ3DQJKvlo4rPYDul3U-17" value="PROCESS&lt;div&gt;处理PID控制值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
