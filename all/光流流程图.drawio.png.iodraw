@@ -10,7 +10,7 @@
         <mxCell id="jerJbpV7M_kOJWFqXsfC-3" value="是否接收到数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jerJbpV7M_kOJWFqXsfC-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-4" value="依据高度设定&lt;div&gt;PID参数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
