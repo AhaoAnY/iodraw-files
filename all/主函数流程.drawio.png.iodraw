@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rc06lmbuzUZEAa69GRzK">
-    <mxGraphModel dx="481" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,22 +14,22 @@
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-3" value="发送飞控效果数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-4" value="检测ANTO_&lt;div&gt;Recived_flag&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-5" value="status置2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-6" value="依据ANTO_Recived_&lt;div&gt;flag具体内容处理数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-8" value="检测ANTO_&lt;div&gt;Recived_flag&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-4" value="检测ANTO_&lt;div&gt;Recived_flag&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-9" value="status置1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-5" value="status置2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-6" value="依据ANTO_Recived_&lt;div&gt;flag具体内容处理数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-8" value="检测ANTO_&lt;div&gt;Recived_flag&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-9" value="status置1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
