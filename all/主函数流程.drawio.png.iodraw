@@ -19,6 +19,9 @@
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-5" value="status置2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-6" value="依据ANTO_Recived_&lt;div&gt;flag具体内容处理数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
