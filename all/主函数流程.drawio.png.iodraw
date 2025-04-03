@@ -16,7 +16,7 @@
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-4" value="检测ANTO_&lt;div&gt;Recived_flag&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-5" value="status置2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
