@@ -47,8 +47,11 @@
         <mxCell id="LPQ3DQJKvlo4rPYDul3U-6" value="EXIT&lt;div&gt;退出控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LPQ3DQJKvlo4rPYDul3U-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="LPQ3DQJKvlo4rPYDul3U-13" value="WAITING" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPQ3DQJKvlo4rPYDul3U-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
