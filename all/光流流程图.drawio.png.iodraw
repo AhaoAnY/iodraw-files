@@ -13,11 +13,10 @@
         <mxCell id="jerJbpV7M_kOJWFqXsfC-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-3" target="jerJbpV7M_kOJWFqXsfC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jerJbpV7M_kOJWFqXsfC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-3" target="jerJbpV7M_kOJWFqXsfC-15">
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-18" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-3" target="jerJbpV7M_kOJWFqXsfC-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="620" />
-              <mxPoint x="120" y="620" />
+              <mxPoint x="120" y="320" />
               <mxPoint x="120" y="920" />
             </Array>
           </mxGeometry>
