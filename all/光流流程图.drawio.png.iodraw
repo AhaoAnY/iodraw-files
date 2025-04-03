@@ -19,6 +19,9 @@
         <mxCell id="jerJbpV7M_kOJWFqXsfC-6" value="左摇杆是否居中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-7" value="串级PID计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
