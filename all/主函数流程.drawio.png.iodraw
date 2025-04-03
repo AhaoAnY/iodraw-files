@@ -7,6 +7,9 @@
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-1" value="进入函数&lt;div&gt;ANTO_polling()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
