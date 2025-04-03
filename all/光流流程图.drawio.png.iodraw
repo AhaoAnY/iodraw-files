@@ -28,6 +28,12 @@
         <mxCell id="jerJbpV7M_kOJWFqXsfC-5" value="解码光流数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-6" target="jerJbpV7M_kOJWFqXsfC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jerJbpV7M_kOJWFqXsfC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jerJbpV7M_kOJWFqXsfC-6" target="jerJbpV7M_kOJWFqXsfC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jerJbpV7M_kOJWFqXsfC-6" value="左摇杆是否居中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
