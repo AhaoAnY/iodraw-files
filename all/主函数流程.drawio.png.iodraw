@@ -10,8 +10,11 @@
         <mxCell id="jiAwI5u74FiJeYMY6PMQ-2" value="判断status值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jiAwI5u74FiJeYMY6PMQ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-3" value="发送飞控效果数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiAwI5u74FiJeYMY6PMQ-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
