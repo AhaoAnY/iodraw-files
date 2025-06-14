@@ -15,7 +15,11 @@
         </mxCell>
         <mxCell id="-CiAL1_I3bxSC6DygI2F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sL1CWlwNAOMrIPpPczg-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="170" as="targetPoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="240" />
+              <mxPoint x="280" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3sL1CWlwNAOMrIPpPczg-2" value="是否已连接Wi-Fi" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
